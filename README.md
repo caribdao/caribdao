@@ -1,4 +1,7 @@
 ### We are cooking with ⛽️!
+
+Check the docs folder for Carib DAO documents.
+
 <!--
 **caribdao/caribdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,1 +1,3 @@
-https://github.com/ContractWolf/smart-contract-audits/blob/main/ContractWolf_Audit_Carib_DAO.pdf
+Web: https://contractwolf.io/projects/carib-dao
+
+Github: https://github.com/ContractWolf/smart-contract-audits/blob/main/ContractWolf_Audit_Carib_DAO.pdf
